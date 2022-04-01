@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá eu sou Mauricio Ito, estudante de análise e desenvolvimento de sistema!
 
 - 🌱 Estou aprendendo framework's JavaScript 
 - 😄 Pronomes: Ito
